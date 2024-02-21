@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on designing simulation games eventually and anything related to social justice.
 - 📫 How to reach me: through this platform!
 - 😄 Pronouns: she/they
-- ⚡ Fun fact: I enjoy food a lot for someone who only manages to eat once every other day.
+- ⚡ Fun fact: I have an all-white, blue-eyed husky who loves to howl at me with a lot of sass whenever I return home to her.
 
 <!---
 illi-noise/illi-noise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
