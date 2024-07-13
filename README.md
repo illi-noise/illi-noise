@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @illi-noise
-- 👀 I’m interested in learning more about the various aspects of information technology.
+- 👀 I’m interested in learning more about the various aspects of information technology, especially information security.
 - 🌱 I’m currently learning programming with Python, Linux proficiency, ethical hacking, and cybersecurity.
 - 💞️ I want to be able to collaborate on simulation video games someday. For now, I research and experiment with hacking tools and scripts.
 - 📫 How to reach me: through this platform!
